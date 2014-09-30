@@ -2,8 +2,8 @@
 .. highlight:: python
     :linenothreshold: 0
 
-Explore Flask
-=============
+Exploring Flask
+===============
 
 *Explore Flask* is a book about best practices and patterns for developing
 web applications with `Flask <http://flask.pocoo.org/>`_. The book was funded
